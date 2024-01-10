@@ -17,3 +17,8 @@ Next you can run the application in the local system
 ```
 yarn start
 ```
+
+SCREENSHT
+
+![Alt text](<Screenshot from 2024-01-10 11-11-10.png>)
+
